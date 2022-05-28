@@ -1,0 +1,6 @@
+Product-Id: 1 / Product-name: name_1 / Price: 1000
+Product-Id: 2 / Product-name: name_2 / Price: 2000
+Product-Id: 3 / Product-name: name_3 / Price: 300
+Product-Id: 4 / Product-name: name_4 / Price: 4000
+Product-Id: 5 / Product-name: name_5 / Price: 500
+Product-Id: 6 / Product-name: name_6 / Price: 6000
